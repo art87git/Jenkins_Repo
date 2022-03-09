@@ -9,6 +9,3 @@ Git GUI
 
 
 before checkout
-
-
-before revert
