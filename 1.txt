@@ -6,3 +6,6 @@ Before pull
 
 
 Git GUI
+
+
+before checkout
