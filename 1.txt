@@ -8,4 +8,4 @@ Before pull
 Git GUI
 
 
-before checkout
+before checkout.
